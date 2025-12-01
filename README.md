@@ -14,9 +14,10 @@ To design and develop an attractive, responsive, and user-friendly frontend webs
 - Responsive design – Optimized for mobile and desktop
 
 Project Structure
+
 COFFEE WEBSITE/
 ├── taste.html
-├── css/
+├── css
 │ └── shop.css
 ├── js/
 │ └── shop.js
