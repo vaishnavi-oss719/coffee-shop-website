@@ -16,11 +16,11 @@ To design and develop an attractive, responsive, and user-friendly frontend webs
 Project Structure
 
 COFFEE WEBSITE/
-├── taste.html
-├── css
-│ └── shop.css
-├── js/
-│ └── shop.js
+-Taste.html
+-css
+  -shop.css
+-js
+  -script.js
 
 How To Run
 -Vs Code
